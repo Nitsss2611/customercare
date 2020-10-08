@@ -4,4 +4,4 @@ Platform : Linux
 
 Language : Python
 
-Team Members : David , Nitesh
+Team Members :  Nitesh
